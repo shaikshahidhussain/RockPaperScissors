@@ -4,7 +4,7 @@ Welcome to the Rock-Paper-Scissors Game! This project is a simple implementation
 
 ## Live Demo
 
-Check out the live version of the game [here](https://shaikshahidhussain.github.io/RockPaperScissors.html/).
+Check out the live version of the game [here](https://shaikshahidhussain.github.io/RockPaperScissors/).
 
 ## Table of Contents
 
