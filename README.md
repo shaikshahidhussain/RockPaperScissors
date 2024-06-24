@@ -20,6 +20,7 @@ Check out the live version of the game [here](https://shaikshahidhussain.github.
 - Background music with an option to toggle on/off.
 - Responsive design for different screen sizes.
 
+
 ## How to Play
 
 1. Choose Rock, Paper, or Scissors by clicking on the corresponding image.
@@ -32,3 +33,5 @@ Check out the live version of the game [here](https://shaikshahidhussain.github.
 - HTML
 - CSS
 - JavaScript
+
+Feel free to check these out
