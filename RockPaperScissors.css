@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.header{
+    background-color: #023047;
+    color: white;
+    height: 5rem;
+    line-height: 5rem;
+}
+#head-title{
+    display: inline;
+}
+#head-title:hover{
+    cursor:pointer;
+    background-color: #831320;
+}
+
+.choice{
+    width: 230px;
+    height: 230px; 
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.choice:hover{
+    cursor: pointer;
+    background-color: #023047;
+}
+img{
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.choices{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+    gap: 3rem;
+}
+.score-board{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin-top: 10rem;
+    gap: 6rem;
+
+}
+#user-score ,
+#comp-score{
+    font-size: 5rem;
+}
+.msg-container{
+    margin-top: 5rem;
+}
+#msg{
+    background-color: #023047;
+    color:white ;
+    font-size: 2rem ;
+    display: inline-block;
+    padding: 1rem;
+    border-radius: 2rem;
+}
+
+.reset{
+    margin-top: 20vh
+
+}
+.resetBtn{
+    background-color: #023047;
+    color:white ;
+    font-size: 2rem ;
+    display: inline-block;
+    padding: 1rem;
+    border-radius: 2rem;
+    background-color: blue;
+ }
+.resetBtn:hover{
+    cursor: pointer;
+    background-color: black;
+
+}
+#music-icon {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+#music-icon:hover {
+    opacity: 0.7;
+}
